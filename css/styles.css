@@ -1,3 +1,4 @@
+/* styles for task 3*/
 img {
   max-width: 80%;
 }
@@ -12,4 +13,17 @@ img {
 
 .js-gallery-image {
   border-radius: 20px;
+}
+
+/* styles for task 6*/
+#validation-input {
+  border: 3px solid #bdbdbd;
+}
+
+#validation-input.valid {
+  border-color: #4caf50;
+}
+
+#validation-input.invalid {
+  border-color: #f44336;
 }
