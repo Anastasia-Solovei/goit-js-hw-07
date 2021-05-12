@@ -1,0 +1,15 @@
+img {
+  max-width: 80%;
+}
+
+.js-gallery {
+  display: flex;
+}
+
+.js-gallery-item {
+  list-style: none;
+}
+
+.js-gallery-image {
+  border-radius: 20px;
+}
